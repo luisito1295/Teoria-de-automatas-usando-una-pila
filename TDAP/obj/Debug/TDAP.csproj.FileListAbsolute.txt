@@ -1,0 +1,6 @@
+c:\users\luisito\documents\visual studio 2015\Projects\TDAP\TDAP\bin\Debug\TDAP.exe.config
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\TDAP\TDAP\obj\Debug\TDAP.csprojResolveAssemblyReference.cache
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\TDAP\TDAP\bin\Debug\TDAP.exe
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\TDAP\TDAP\bin\Debug\TDAP.pdb
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\TDAP\TDAP\obj\Debug\TDAP.exe
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\TDAP\TDAP\obj\Debug\TDAP.pdb
